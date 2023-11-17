@@ -13,3 +13,8 @@ p{
 em strong{
     color: #0ae9d6
 }
+
+#bandeira {
+   width: 500px;
+   height: 100px;
+}
